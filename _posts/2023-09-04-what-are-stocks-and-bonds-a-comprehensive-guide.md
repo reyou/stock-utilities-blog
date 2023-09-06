@@ -9,6 +9,8 @@ tags: [stocks, bonds, investing]
 
 # What Are Stocks and Bonds? A Comprehensive Guide
 
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/2ce7e859-404a-493e-8f30-e2b84180448c)
+
 In the world of investing, stocks and bonds are two of the most discussed asset classes. Despite their prominence in the financial world, the nuances of these investments are not always clearly understood. This blog post aims to demystify stocks and bonds, offering you a comprehensive understanding of what they are, how they work, and how they fit into your investment portfolio.
 
 ## Table of Contents
