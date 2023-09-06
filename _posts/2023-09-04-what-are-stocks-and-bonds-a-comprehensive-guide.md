@@ -2,7 +2,7 @@
 layout: post
 title: "What Are Stocks and Bonds? A Comprehensive Guide"
 date: 2023-09-04
-author: Your Name
+author: Stock Utilities
 categories: [Investing, Finance]
 tags: [stocks, bonds, investing]
 ---
