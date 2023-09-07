@@ -20,7 +20,7 @@ Today, we'll demystify some fundamental investment terms like Market Capitalizat
 1. [Market Capitalization](#market-capitalization)
 2. [Dividend Yield](#dividend-yield)
 3. [P/E Ratio](#pe-ratio)
-4. [EPS (Earnings Per Share)](#eps)
+4. [EPS (Earnings Per Share)](#eps-earnings-per-share)
 5. [Bonds & Bond Yields](#bonds)
 6. [Mutual Funds & ETFs](#mutual-funds)
 
