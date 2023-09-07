@@ -10,9 +10,9 @@ tags: [brokerage account, investing, finance]
 <a id="introduction"></a>
 ## Introduction
 
-![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/2e555859-7410-42ec-81ef-92028b539720)
-
 Are you considering entering the world of investing? One of the first steps you'll need to take is opening a brokerage account. This guide will walk you through every step of the process, from choosing the right brokerage to understanding account types and finally, to the account setup itself.
+
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/2e555859-7410-42ec-81ef-92028b539720)
 
 ### Table of Contents
 
