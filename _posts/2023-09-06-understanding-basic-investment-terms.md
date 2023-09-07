@@ -96,7 +96,7 @@ A higher P/E ratio typically indicates that investors have higher expectations f
 
 #### Real-Life Example: Apple Inc.
 
-Let's take Apple Inc. (AAPL) as an example. As of my last update in September 2021, let's assume the following (please note these are hypothetical numbers for illustration purposes):
+Let's take Apple Inc. (AAPL) as an example. Let's assume the following (please note these are hypothetical numbers for illustration purposes):
 
 - **Stock Price**: $150
 - **Earnings Per Share (EPS)**: $5
@@ -111,7 +111,7 @@ P/E Ratio = 30
 
 In this example, Apple's P/E Ratio would be 30. What does that mean? Essentially, investors are willing to pay $30 for every $1 of earnings that Apple generates. A P/E Ratio of 30 often suggests that investors expect high future growth for Apple, and they are willing to pay a premium for it today.
 
-![Placeholder for Apple P/E Example Image]
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/7aa8adcd-6e9a-4255-a0e5-57c6e0694f0a)
 
 Remember, a high P/E Ratio can indicate either that the stock is overvalued or that investors have high expectations for the company's future; the interpretation varies with the market conditions and the specific industry.
 
@@ -133,15 +133,36 @@ EPS stands for Earnings Per Share and can be thought of as the portion of a comp
 
 #### Formula
 
-\[ \text{EPS} = \frac{\text{Net Income} - \text{Dividends on Preferred Stock}}{\text{Average Outstanding Shares}} \]
+EPS = (Net Income - Dividends on Preferred Stock) / Average Outstanding Shares
 
 ### How to Interpret it
 
 A higher EPS usually indicates better financial health and profitability. Keep an eye on this when picking individual stocks.
 
-![Placeholder for EPS Image]
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/f4029319-9b6c-401a-a774-0ae5179327f6)
 
 [Learn More About EPS](https://en.wikipedia.org/wiki/Earnings_per_share)
+
+### Real-Life Example: Comparing Apple, Microsoft, and IBM
+
+Let's delve into real-world numbers by comparing the EPS of three major tech companies: Apple Inc. (AAPL), Microsoft Corp. (MSFT), and IBM (IBM). These numbers are hypothetical for illustrative purposes:
+
+- **Apple (AAPL)**: EPS of $5
+- **Microsoft (MSFT)**: EPS of $7
+- **IBM (IBM)**: EPS of $4
+
+#### How to Rank Them
+
+Based on the EPS alone:
+1. Microsoft (MSFT) with an EPS of $7
+2. Apple (AAPL) with an EPS of $5
+3. IBM (IBM) with an EPS of $4
+
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/91734a78-c46f-4f8e-9177-fbd24fc62b67)
+
+Microsoft takes the top spot, indicating higher profitability per share, followed by Apple and then IBM. Remember, while EPS is a useful metric, it shouldn't be the sole factor in your investment decision. Always consider other financial indicators and market conditions.
+
+[Learn More About Financial Metrics](https://www.investopedia.com/financial-ratios-4689740)
 
 ---
 
@@ -149,13 +170,13 @@ A higher EPS usually indicates better financial health and profitability. Keep a
 
 ### What is it?
 
-A bond is like an IOU from the government or a corporation. When you buy a bond, you're essentially lending money to the issuer in exchange for periodic interest payments and the return of the bond's face value when it matures.
+A bond is like an IOU (an abbreviation of the phrase "I owe you") from the government or a corporation. When you buy a bond, you're essentially lending money to the issuer in exchange for periodic interest payments and the return of the bond's face value when it matures.
 
 ### How to Interpret it
 
 Bond Yields are the interest rates on bonds. Generally, a higher yield means a riskier bond. Always consider the issuer's creditworthiness.
 
-![Placeholder for Bonds Image]
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/9d45f804-f8bf-45f8-bbb0-6db31a2d76b0)
 
 [Learn More About Bonds](https://en.wikipedia.org/wiki/Bond_(finance))
 
@@ -171,7 +192,7 @@ Think of Mutual Funds and ETFs as baskets containing multiple stocks, bonds, or 
 
 Mutual Funds are actively managed, meaning professionals curate and adjust the portfolio. ETFs are usually passively managed, tracking an index or sector. Choose based on your risk tolerance and investment strategy.
 
-![Placeholder for Mutual Funds & ETFs Image]
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/2041e9e7-b2b5-4b6e-b981-2ad50d8fadcf)
 
 [Learn More About Mutual Funds](https://en.wikipedia.org/wiki/Mutual_fund)
 [Learn More About ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund)
@@ -182,9 +203,7 @@ Mutual Funds are actively managed, meaning professionals curate and adjust the p
 
 We’ve tackled some meaty topics today, folks! Whether you’re preparing for a deep dive into the investment ocean or just wading in the shallows, understanding these basic terms is crucial. Remember, knowledge is the best investment you can make, and as Benjamin Graham eloquently put it, “To invest successfully over a lifetime does not require a stratospheric IQ, unusual business insights, or inside information. What’s needed is a sound intellectual framework for making decisions and the ability to keep emotions from corroding that framework.”
 
-If you found this guide helpful, don't forget to share it with others who
-
- might benefit from it. Follow us on [Twitter](https://twitter.com/stock_utilities) for more insightful tips and updates on investing and finance.
+If you found this guide helpful, don't forget to share it with others who might benefit from it. Follow us on [Twitter](https://twitter.com/stock_utilities) for more insightful tips and updates on investing and finance.
 
 Till next time, keep investing and stay fabulous! 💫
 ```
