@@ -11,7 +11,7 @@ tags: [investment terms, market capitalization, dividend yield, finance]
 
 Hey there, financial warriors! 🌟 Have you ever stumbled upon the jargon-laden world of investing and felt like you were reading ancient Greek? Trust me, you're not alone. Whether you're a rookie dipping your toes into the stock market or a seasoned pro looking for a refresher, you've landed on the right blog post.
 
-![Placeholder for Introductory Image]
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/c8a935d9-b16a-4af1-8dc0-8a133196d797)
 
 Today, we'll demystify some fundamental investment terms like Market Capitalization, Dividend Yield, and many others. We'll do this with easy-to-understand analogies and insights so that you can take on Wall Street with confidence. As the great Warren Buffet said, "The stock market is designed to transfer money from the Active to the Patient." So, let's equip ourselves to be on the right side of that transfer, shall we?
 
@@ -34,7 +34,7 @@ Market Capitalization, often shortened to 'Market Cap,' refers to the total mark
 
 #### Formula
 
-\[ \text{Market Cap} = \text{Stock Price} \times \text{Number of Outstanding Shares} \]
+Market Cap = Stock Price x Number of Outstanding Shares
 
 ### How to Interpret it
 
@@ -44,7 +44,7 @@ The market cap can give you a good idea of the company's size and how the market
 2. **Mid-Cap**: $2 billion - $10 billion
 3. **Large-Cap**: More than $10 billion
 
-![Placeholder for Market Cap Image]
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/98de0b70-b6ab-476b-861f-121881784bfa)
 
 ### Quick Quote
 
@@ -62,13 +62,13 @@ The Dividend Yield is a financial ratio that shows how much a company pays out i
 
 #### Formula
 
-\[ \text{Dividend Yield} = \frac{\text{Annual Dividend per Share}}{\text{Stock Price}} \]
+Dividend Yield = (Annual Dividend per Share) / Stock Price
 
 ### How to Interpret it
 
 A higher Dividend Yield usually suggests that a company shares a more significant portion of its profits with its shareholders. However, this isn't always a sign of stability. Sometimes, a high yield could mean the company is not reinvesting enough in itself.
 
-![Placeholder for Dividend Yield Image]
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/1f8d878f-e752-4b62-989b-e0c6f5e50d0a)
 
 ### Quick Quote
 
@@ -86,13 +86,36 @@ The Price-to-Earnings (P/E) ratio is like the price tag on future earnings. It t
 
 #### Formula
 
-\[ \text{P/E Ratio} = \frac{\text{Stock Price}}{\text{Earnings Per Share (EPS)}} \]
+P/E Ratio = Stock Price / Earnings Per Share (EPS)
 
 ### How to Interpret it
 
 A higher P/E ratio typically indicates that investors have higher expectations for a company's future growth. Conversely, a lower P/E ratio may suggest the opposite, or that the stock is undervalued.
 
-![Placeholder for P/E Ratio Image]
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/73614c68-39f7-48bf-aca9-5250faa45e0c)
+
+#### Real-Life Example: Apple Inc.
+
+Let's take Apple Inc. (AAPL) as an example. As of my last update in September 2021, let's assume the following (please note these are hypothetical numbers for illustration purposes):
+
+- **Stock Price**: $150
+- **Earnings Per Share (EPS)**: $5
+
+Using the formula for P/E Ratio:
+
+```
+P/E Ratio = Stock Price / Earnings Per Share (EPS)
+P/E Ratio = $150 / $5
+P/E Ratio = 30
+```
+
+In this example, Apple's P/E Ratio would be 30. What does that mean? Essentially, investors are willing to pay $30 for every $1 of earnings that Apple generates. A P/E Ratio of 30 often suggests that investors expect high future growth for Apple, and they are willing to pay a premium for it today.
+
+![Placeholder for Apple P/E Example Image]
+
+Remember, a high P/E Ratio can indicate either that the stock is overvalued or that investors have high expectations for the company's future; the interpretation varies with the market conditions and the specific industry.
+
+[Learn More About Apple's Financials](https://finance.yahoo.com/quote/AAPL/)
 
 ### Quick Quote
 
