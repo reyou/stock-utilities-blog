@@ -16,9 +16,6 @@ Are you considering entering the world of investing? One of the first steps you'
 
 <iframe width="1213" height="682" src="https://www.youtube.com/embed/ka2TZM94EtM" title="How to Open a Brokerage Account and Buy Stocks!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-{% include youtube.html id="ka2TZM94EtM" %}  
-
-
 ### Table of Contents
 
 1. [Introduction](#introduction)
