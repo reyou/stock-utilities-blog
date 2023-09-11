@@ -14,6 +14,11 @@ Are you considering entering the world of investing? One of the first steps you'
 
 ![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/2e555859-7410-42ec-81ef-92028b539720)
 
+<iframe width="1213" height="682" src="https://www.youtube.com/embed/ka2TZM94EtM" title="How to Open a Brokerage Account and Buy Stocks!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{% include youtube.html id="JLMbpiywVxQ" %}  
+
+
 ### Table of Contents
 
 1. [Introduction](#introduction)
