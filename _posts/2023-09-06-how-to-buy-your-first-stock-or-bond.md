@@ -11,6 +11,8 @@ tags: [stocks, bonds, investing, finance]
 
 Investing in stocks or bonds can be a daunting task, especially if you're doing it for the first time. The financial market is complex, but don't let that intimidate you. With the right approach and a solid plan, buying your first stock or bond can be a smooth process. In this guide, we'll walk you through the steps you need to follow to make your first investment.
 
+{% include youtube.html id="bBiKjdY_Smc" %}
+
 ![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/72b1df9d-901a-4ff2-a805-e1ca927d2baf)
 
 ## Table of Contents
