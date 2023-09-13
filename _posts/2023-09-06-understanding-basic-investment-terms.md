@@ -185,6 +185,37 @@ In this example, Apple's P/E Ratio would be 30. What does that mean? Essentially
 
 Remember, a high P/E Ratio can indicate either that the stock is overvalued or that investors have high expectations for the company's future; the interpretation varies with the market conditions and the specific industry.
 
+The Price-to-Earnings (P/E) ratio is a commonly used metric for valuing a company. It measures the price you pay for each dollar of earnings. Here's how you might categorize P/E ratios:
+
+1. **Low P/E Ratio (Below Industry Average):**
+   - *Description:* A company with a P/E ratio lower than its industry average could be considered undervalued. However, it could also mean that the market has low expectations for the company's future earnings growth.
+
+2. **Average P/E Ratio (Around Industry Average):**
+   - *Description:* A company with a P/E ratio around its industry average might be considered fairly valued. However, the industry average P/E can vary significantly from one industry to another.
+
+3. **High P/E Ratio (Above Industry Average):**
+   - *Description:* A company with a P/E ratio higher than its industry average could be considered overvalued. However, it could also mean that the market has high expectations for the company's future earnings growth.
+
+4. **Negative P/E Ratio:**
+   - *Description:* A negative P/E ratio means the company has negative earnings (net loss). This is not a meaningful metric, as it does not provide a useful measure of valuation. A company with negative earnings will often be listed as having a "N/A" or "not applicable" P/E ratio.
+
+5. **Zero P/E Ratio:**
+   - *Description:* A zero P/E ratio means the company has zero or no earnings. Similar to a negative P/E, this is not a meaningful metric, as it does not provide a useful measure of valuation. A company with zero earnings will often be listed as having a "N/A" or "not applicable" P/E ratio.
+
+It's important to note that while the P/E ratio is a useful tool for evaluating a company, it should not be used in isolation. Other factors, such as the company's growth prospects, financial health, and the overall market conditions, should also be considered when making investment decisions.
+
+The industry average P/E ratio can change over time due to various factors:
+
+1. **Earnings Changes:** If the earnings of companies in the industry change, this will affect the industry average P/E. For example, if many companies in the industry report higher earnings, this could lower the average P/E ratio.
+
+2. **Price Changes:** Changes in the stock prices of companies in the industry will also affect the industry average P/E. If stock prices increase more than earnings, this could raise the average P/E ratio.
+
+3. **New Companies:** The entry of new companies into the industry or the exit of existing companies can also affect the industry average P/E.
+
+4. **Change in Industry Dynamics:** Changes in the industry dynamics, such as increased competition, regulatory changes, or technological advancements, can affect the earnings and stock prices of companies in the industry, and hence the average P/E.
+
+Because of these and other factors, the industry average P/E can fluctuate over time, and it is essential to consider these changes when comparing a company's P/E to the industry average.
+
 [Learn More About Apple's Financials](https://finance.yahoo.com/quote/AAPL/)
 
 ### Quick Quote
