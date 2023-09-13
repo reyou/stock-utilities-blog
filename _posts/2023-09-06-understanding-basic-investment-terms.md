@@ -28,6 +28,10 @@ Today, we'll demystify some fundamental investment terms like Market Capitalizat
 
 ## Market Capitalization
 
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/8ed7bf20-9ef6-4562-9932-3714c37ee65c)
+
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/80b9e7b8-15fd-4b20-b1ed-4f2f88399d65)
+
 ### What is it?
 
 Market Capitalization, often shortened to 'Market Cap,' refers to the total market value of all a company's outstanding shares of stock. In layman's terms, if a company were a pizza, its market cap would be the price of the whole pizza, not just a single slice.
@@ -56,6 +60,8 @@ As Benjamin Graham said, "In the short run, the market is a voting machine, but 
 
 ## Dividend Yield
 
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/72fb8c0e-8682-4ee9-914d-e751896924bc)
+
 ### What is it?
 
 The Dividend Yield is a financial ratio that shows how much a company pays out in dividends each year relative to its stock price. Think of it as the interest rate your bank gives you but for owning a company's stock.
@@ -68,8 +74,6 @@ Dividend Yield = (Annual Dividend per Share) / Stock Price
 
 A higher Dividend Yield usually suggests that a company shares a more significant portion of its profits with its shareholders. However, this isn't always a sign of stability. Sometimes, a high yield could mean the company is not reinvesting enough in itself.
 
-![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/1f8d878f-e752-4b62-989b-e0c6f5e50d0a)
-
 ### Quick Quote
 
 Warren Buffet has been a vocal advocate for companies that provide dividends. He said, "If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."
@@ -79,6 +83,12 @@ Warren Buffet has been a vocal advocate for companies that provide dividends. He
 ---
 
 ## P/E Ratio
+
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/5360edc5-3350-4eb7-b6fb-b908eab044e9)
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/c4ed588f-0d22-476e-b801-b6d7ff14b5aa)
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/5081adf6-d2a5-4867-8d08-32bd88e91da8)
+
+
 
 ### What is it?
 
@@ -91,8 +101,6 @@ P/E Ratio = Stock Price / Earnings Per Share (EPS)
 ### How to Interpret it
 
 A higher P/E ratio typically indicates that investors have higher expectations for a company's future growth. Conversely, a lower P/E ratio may suggest the opposite, or that the stock is undervalued.
-
-![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/73614c68-39f7-48bf-aca9-5250faa45e0c)
 
 #### Real-Life Example: Apple Inc.
 
@@ -126,6 +134,8 @@ As Peter Lynch once noted, "The P/E ratio of any company that's fairly priced wi
 ---
 
 ## EPS (Earnings Per Share)
+
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/abe0fed5-ca7e-476f-9fdf-9bea75039c56)
 
 ### What is it?
 
