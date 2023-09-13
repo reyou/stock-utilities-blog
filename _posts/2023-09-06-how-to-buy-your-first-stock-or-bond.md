@@ -11,8 +11,6 @@ tags: [stocks, bonds, investing, finance]
 
 Investing in stocks or bonds can be a daunting task, especially if you're doing it for the first time. The financial market is complex, but don't let that intimidate you. With the right approach and a solid plan, buying your first stock or bond can be a smooth process. In this guide, we'll walk you through the steps you need to follow to make your first investment.
 
-{% include youtube.html id="bBiKjdY_Smc" %}
-
 ![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/72b1df9d-901a-4ff2-a805-e1ca927d2baf)
 
 ## Table of Contents
@@ -25,6 +23,8 @@ Investing in stocks or bonds can be a daunting task, especially if you're doing 
 ### Deciding Between Stocks and Bonds
 
 The first step is to decide whether you want to invest in stocks or bonds. While stocks offer the potential for higher returns, they come with higher risk. Bonds are generally considered safer but yield lower returns. The choice depends on your investment goals and risk tolerance.
+
+{% include youtube.html id="bBiKjdY_Smc" %}
 
 ### Understanding the Risks
 
