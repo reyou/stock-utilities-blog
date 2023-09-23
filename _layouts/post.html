@@ -1,5 +1,9 @@
 ---
-layout: base
+layout: default
 ---
 
-{%- include disqus_comments.html -%}
+<article class="post">
+  {{ content }}
+  
+  {% include disqus_comments.html %}
+</article>
