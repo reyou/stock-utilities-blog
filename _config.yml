@@ -18,3 +18,5 @@ minima:
 header_pages:
   - index.html
   - about.md
+disqus:
+  shortname: stock-utilities
