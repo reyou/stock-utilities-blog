@@ -15,6 +15,7 @@ Investing in the stock market can be an exciting and potentially lucrative endea
 
 {% include youtube.html id="zXnbxLtRhrU" %}
 
+
 ## Diversification: Spreading Your Risk
 
 Diversification is a concept that involves spreading your investment across different asset classes, industries, and geographies. The rationale behind diversification is simple: it helps to mitigate risk. By allocating your investments across various areas, you can reduce the impact of any single investment's poor performance.
