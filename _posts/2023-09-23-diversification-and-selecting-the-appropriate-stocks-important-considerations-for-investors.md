@@ -15,7 +15,7 @@ Investing in the stock market can be an exciting and potentially lucrative endea
 
 {% include youtube.html id="zXnbxLtRhrU" %}
 
-Diversify stocks! | Investing for beginners
+Diversify stocks!, Investing for beginners
 
 ## Diversification: Spreading Your Risk
 
