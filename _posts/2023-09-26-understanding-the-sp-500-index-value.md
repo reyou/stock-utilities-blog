@@ -31,7 +31,7 @@ To put it simply: the S&P 500's value is the sum of the stock prices of its 500 
 
 Imagine you and four friends had a mini-market of apples, bananas, cherries, and dates. Each of you has a fruit stall. The index value would be like checking the total value of all fruits. If one day apples (let's say they represent Apple Inc.) perform exceedingly well, your entire market value goes up, even if cherries (maybe Netflix) didn't sell as much.
 
-![Placeholder image of fruit market](#IMAGE_TAG#)
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/ae452b2f-edf1-4167-ba9b-71e2b6626a0f)
 
 #### **How Can I Invest in the S&P 500?**
 
@@ -45,7 +45,7 @@ Let's delve a little deeper. Some companies in the S&P 500, like Microsoft or Am
 
 This is akin to having a soccer team where one star player's performance can sway the outcome of a match. If the player (say, Apple) scores a goal (releases a successful product), the whole team (S&P 500) benefits!
 
-![Placeholder image of a soccer team celebrating](#IMAGE_TAG#)
+![image](https://github.com/reyou/stock-utilities-blog/assets/6571483/901375f6-1fa3-46b7-9ade-bfc0e06bea2f)
 
 #### **Closing Thoughts**
 
@@ -58,5 +58,3 @@ While the ebbs and flows of the S&P 500 can be attributed to myriad factors, und
 2. [The Intelligent Investor by Benjamin Graham](https://en.wikipedia.org/wiki/The_Intelligent_Investor)
 3. [Vanguard's official site](https://www.vanguard.com/)
 ```
-
-Replace `#IMAGE_TAG#` placeholders with actual images for a complete and visually appealing post!
