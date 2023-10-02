@@ -83,6 +83,40 @@ However, it's important to understand that investing decisions shouldn't be base
 
 ---
 
+# Earnings Yield
+
+Earnings yield is the inverse of the Price-to-Earnings (P/E) ratio. It is calculated by dividing the Earnings Per Share (EPS) by the stock's current price per share. Earnings yield provides an idea of the amount of return you might expect to earn on an investment in the stock if all of the company's earnings were distributed to its shareholders. 
+
+Let's assume we have the following data for three hypothetical tech companies:
+
+**1. TechCompanyA:**
+- Stock Price: $50
+- EPS: $5
+Earnings Yield = EPS / Stock Price
+Earnings Yield = $5 / $50 = 0.10 or 10%
+
+**2. TechCompanyB:**
+- Stock Price: $100
+- EPS: $8
+Earnings Yield = $8 / $100 = 0.08 or 8%
+
+**3. TechCompanyC:**
+- Stock Price: $25
+- EPS: $3
+Earnings Yield = $3 / $25 = 0.12 or 12%
+
+**Comparison:**
+Based solely on the earnings yield:
+- TechCompanyA has an earnings yield of 10%
+- TechCompanyB has an earnings yield of 8%
+- TechCompanyC has the highest earnings yield at 12%
+
+Based purely on earnings yield, TechCompanyC seems to offer the highest return relative to its stock price, thus making it seem like a better buy.
+
+However, it's crucial to remember that, like any financial metric, earnings yield should not be the only consideration when deciding to invest in a company. Other factors like growth prospects, competitive positioning, dividend payments, and overall market conditions play a significant role in determining the attractiveness of a stock. It's also essential to understand that a higher earnings yield might sometimes indicate that the market perceives higher risks associated with the company, and therefore it's priced lower. Always conduct comprehensive due diligence before making any investment decisions.
+
+---
+
 ### Price to Earnings (P/E) Ratio: The Price Tag
 
 P/E ratio is like a price tag on a product in a store. It tells you how much investors are willing to pay for a company's earnings. A high P/E might mean that the company is expected to grow fast in the future.
