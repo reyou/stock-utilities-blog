@@ -83,7 +83,7 @@ However, it's important to understand that investing decisions shouldn't be base
 
 ---
 
-# Earnings Yield
+### Earnings Yield
 
 Earnings yield is the inverse of the Price-to-Earnings (P/E) ratio. It is calculated by dividing the Earnings Per Share (EPS) by the stock's current price per share. Earnings yield provides an idea of the amount of return you might expect to earn on an investment in the stock if all of the company's earnings were distributed to its shareholders. 
 
