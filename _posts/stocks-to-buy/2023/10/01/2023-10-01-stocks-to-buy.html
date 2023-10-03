@@ -22,8 +22,8 @@ tags: [stocks to buy, investing, finance]
         {% for row in site.data.stocks-to-buy.2023.10.01.index %}
             <tr>
                 <td>{{ row.Exchange }}</td>
-                <td>{{ row.Ticker }}</td>
-                <td>{{ row.Description }}</td>             
+                <td><a href="https://stockutilities.com/symbols/{{ row.Exchange }}-{{ row.Ticker }}" target="_blank">{{ row.Ticker }}</a></td>
+                <td>{{ row.Description }}</td>
                 <td>{{ row.Sector }}</td>
                 <td>{{ row["Market Capitalization"] }}</td>
             </tr>
