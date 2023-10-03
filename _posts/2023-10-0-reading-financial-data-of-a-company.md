@@ -507,6 +507,58 @@ For comprehensive stock evaluations, investors should consider a myriad of finan
 
 ---
 
+### Price/Earnings to Growth Ratio (PEG Ratio)
+
+The PEG Ratio is a valuation metric that adjusts the traditional P/E ratio by the growth rate of a company's earnings. The PEG Ratio provides a more comprehensive view of a company's valuation by considering its future earnings growth potential. A lower PEG ratio might suggest that a stock is undervalued given its growth prospects, while a higher PEG ratio might indicate overvaluation.
+
+**Formula**:
+PEG Ratio = P/E Ratio / Annual EPS Growth Rate
+
+Where:
+- **P/E Ratio** is the Price-to-Earnings Ratio, which is the Market Price per Share divided by Earnings Per Share (EPS).
+- **Annual EPS Growth Rate** is the projected annual growth rate of a company's earnings, expressed as a percentage.
+
+### Examples:
+
+Let's consider hypothetical figures for three tech companies: TechA, TechB, and TechC.
+
+#### Company TechA:
+- P/E Ratio: 20
+- Annual EPS Growth Rate: 10% (or 0.10 in decimal form)
+
+PEG Ratio = 20 / 0.10 = 200
+
+#### Company TechB:
+- P/E Ratio: 25
+- Annual EPS Growth Rate: 15% (or 0.15 in decimal form)
+
+PEG Ratio = 25 / 0.15 = 166.67
+
+#### Company TechC:
+- P/E Ratio: 30
+- Annual EPS Growth Rate: 20% (or 0.20 in decimal form)
+
+PEG Ratio = 30 / 0.20 = 150
+
+### Comparison:
+
+From the figures above:
+- Company TechA has a PEG ratio of 200.
+- Company TechB has a PEG ratio of 166.67.
+- Company TechC has a PEG ratio of 150.
+
+Based on the PEG ratio alone, Company TechC appears to be the most attractively priced relative to its growth prospects. This suggests that, for every unit of earnings growth, an investor would pay the least for Company TechC's stock compared to the other two.
+
+### Important Notes:
+
+1. Like all metrics, the PEG ratio has limitations. The EPS growth rate is a projection, meaning it's based on future expectations, which can be uncertain.
+2. A PEG ratio below 1 is often considered undervalued or indicating that the stock's price is not keeping up with expected earnings growth. Conversely, a PEG over 1 might be seen as overvalued or indicating higher growth expectations.
+3. Comparing PEG ratios across industries might not be as useful due to differing growth expectations. It's best to compare PEG ratios within the same sector or industry.
+
+For actual evaluations, one would need to gather real data on P/E ratios and growth projections, which can often be found in analyst reports, company guidance, or financial databases.
+
+---
+
 ### The Importance of Ratios and Comparisons
 
 Just like how we compare mobile phones before buying, it's essential to compare financial ratios among companies. For instance, if **Microsoft** and **Apple** both have a P/E ratio of 30, but you believe Microsoft has more growth potential, you might lean towards investing in Microsoft.
